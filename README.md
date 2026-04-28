@@ -1,4 +1,4 @@
-# ☕ java-fundamentals-study
+# ☕ Java Fundamentals Study
 
 ## 📌 Sobre o projeto:
 Repositório com exercícios e práticas desenvolvidas durante o aprendizado de Java, abordando conceitos fundamentais da linguagem.
